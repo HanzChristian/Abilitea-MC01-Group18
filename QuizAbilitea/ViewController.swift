@@ -15,12 +15,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         catName.textColor = .brown
     }
-    
-    let path = Bundle.main.path(forResource: "quiz", ofType: "json")
-    let url = URL(fileURLWithPath: self path!)
-    
-    do{
-        let data = try Data(contentsOf: url)
-    }
+
     
 

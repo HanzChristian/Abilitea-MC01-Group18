@@ -1,5 +1,5 @@
 //
-//  questionStructure.swift
+//  questionStructureCrit.swift
 //  QuizAbilitea
 //
 //  Created by Hanz Christian on 06/04/22.
@@ -8,8 +8,8 @@
 import Foundation
 import UIKit
 
-struct questionStructure{
-    let questionImage:String?
+struct questionStructureRead{
+    
     let questionText:String
     
     let optionA:String
@@ -19,5 +19,3 @@ struct questionStructure{
     
     let answer:String
 }
-
-
