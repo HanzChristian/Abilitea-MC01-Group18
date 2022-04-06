@@ -1,0 +1,37 @@
+[
+    {
+        "questionImage": "soal1.png"
+        "questionText": "Which in the following year did over 1/3 of the students who took the exam not passing it?"
+        "OptionA" : "2006"
+        "OptionB" : "2009"
+        "OptionC" : "2008"
+        "OptionD" : "None of above"
+        "correctAnswer": "2006"
+        "tagCategory" : "Numerical Reasoning"
+    }
+    
+    {
+        "questionImage":""
+        "questionText":"Statement : In a day of basketball match, the total scores made by a team were 100. Out of these, 60 scores were made by point guards and 20 were made by Lebron James, Conclusions : I. Lebron James is not a Point Guard.  II. 60% of the team consist of point guards."
+        "OptionA" : "Only 1 Conclusion follows."
+        "OptionB" : "Both Conclusions follow."
+        "OptionC" : "First Conclusion follow while second doesn’t."
+        "OptionD" : "Neither of them follow."
+        "correctAnswer": "Neither of them follow."
+        "tagCategory" : "Critical Thinking"
+    }
+    
+    {
+        "questionImage": "soal2.png"
+        "questionText" : "Hendy can attempt the project where Nate or Kelly are scheduled. Kelly can attempt the project where Aileen or Sasha are scheduled. Who can be scheduled on every month?"
+        "OptionA" : "None of them"
+        "OptionB" : "Kelly"
+        "OptionC" : "Hendy"
+        "OptionD" : "Both Kelly and Hendy"
+        "correctAnswer": "Hendy"
+        "tagCategory" : "Problem Solving"
+    }
+]
+
+
+
