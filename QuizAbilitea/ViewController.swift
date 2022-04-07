@@ -9,11 +9,19 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var catName: UILabel!
+    // Data
+    var arrOfQuestionNum : [questionStructure] = []
+    var arrOfQuestionCrit: [questionStructure] = []
+    var arrOfQuestionProb : [questionStructure] = []
+    
+    //Data control
+    
+    //Outlets
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        catName.textColor = .brown
+        
     }
 
     

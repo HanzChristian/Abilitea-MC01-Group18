@@ -122,9 +122,6 @@
                             <constraint firstItem="NKp-Yb-MhY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="15" id="l5h-PG-EgE"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="catName" destination="Mhe-Tu-QOl" id="rKX-VT-dzd"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
